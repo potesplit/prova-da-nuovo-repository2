@@ -1,8 +1,15 @@
 [
   {
-    "nome": "carlo",
-    "descrizione": "spesa",
-    "importo": 40,
-    "partecipanti": []
+    "nome": "andrea",
+    "descrizione": "regalo [NE]",
+    "importo": 39,
+    "partecipanti": [
+      "andrea",
+      "Eleonora"
+    ],
+    "quote": {
+      "andrea": 10,
+      "Eleonora": 29
+    }
   }
 ]
