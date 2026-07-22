@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "nome": "andrea",
+    "descrizione": "spesa 1",
+    "importo": 60,
+    "partecipanti": []
+  }
+]
