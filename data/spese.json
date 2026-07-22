@@ -11,5 +11,11 @@
       "andrea": 10,
       "Eleonora": 29
     }
+  },
+  {
+    "nome": "carlo",
+    "descrizione": "spesa",
+    "importo": 40,
+    "partecipanti": []
   }
 ]
